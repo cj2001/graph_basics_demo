@@ -19,7 +19,7 @@ installed the official Neo4j Python driver via `pip install neo4j`.  This will p
 a URI and a password for your database.  You can then create a Jupyter notebook and provides that
 login information to the `Neo4jConnection` call in the intro.ipynb file.
 
-2. Docker
+2. [Docker](https://www.docker.com/)
 
 If you want to run a pre-configured Jupyter notebook and Neo4j database on your local machine, 
 you can follow the instructions at my blog post ["Get going with Neo4j and JupyterLab through Docker"](https://dev.neo4j.com/docker_neo_jupyter).  The repository for this post can be found [here](https://github.com/cj2001/data_science_neo4j_docker).  The only thing you will need to do then is to move the Jupyter notebook in this repo into the `notebooks/` subdirectory of that repository.  
