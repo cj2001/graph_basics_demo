@@ -10,7 +10,7 @@ This repository contains the basic code and slides for an introduction to the ba
 
 ### How to run the code here
 
-You will need to set up a Neo4j database and have access to Jupyter Notebook or JupyterLab.  There are many ways you can do this, but here are two recommended ways:
+You will need to set up a Neo4j database and have access to Jupyter Notebook or JupyterLab.  There are many ways you can do this, but here are two convenient ways:
 
 1. [Neo4j Sandbox](https://dev.neo4j.com/sandbox)
 
